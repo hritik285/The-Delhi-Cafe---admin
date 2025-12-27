@@ -1,0 +1,7 @@
+{
+  "name": "MenuMaster Sheets Sync",
+  "description": "Real-time menu management and order tracking system connected to Google Sheets, featuring an AI Menu Assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
